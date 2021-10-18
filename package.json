@@ -1,0 +1,7 @@
+{
+	"name": "self-as",
+	"description": "make able to reuse value as variable",
+	"author": "andjsrk",
+	"version": "1.0.0",
+	"keywords": [ "reuse", "value", "variable" ]
+}
