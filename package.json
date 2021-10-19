@@ -1,8 +1,13 @@
 {
 	"name": "self-as",
 	"description": "make able to reuse value as variable",
-	"author": "andjsrk",
 	"version": "1.1.0",
+	"author": "andjsrk",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andjsrk/self-as.git"
+	},
+	"homepage": "https://github.com/andjsrk/self-as",
 	"keywords": [ "reuse", "value", "variable" ]
 }
