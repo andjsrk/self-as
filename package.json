@@ -1,7 +1,7 @@
 {
 	"name": "self-as",
 	"description": "make able to reuse value as variable",
-	"version": "1.1.1",
+	"version": "2.0.0",
 	"author": "andjsrk",
 	"license": "MIT",
 	"repository": {
