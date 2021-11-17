@@ -4,5 +4,5 @@ This can be used in functional programming.
 
 # Example
 ```js
-selfAs(someComplexExpr => someComplexExpr / Math.pow(10, someComplexExpr.toString().length))(1/* some complex expression */)
+selfAs(1/* some complex expression */)(someComplexExpr => someComplexExpr / Math.pow(10, someComplexExpr.toString().length))
 ```
